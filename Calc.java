@@ -1,4 +1,3 @@
-/* Calculadora simples em Java usando else if */
 import java.util.Scanner;
 
 public class Calc {
