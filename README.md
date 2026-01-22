@@ -4,4 +4,10 @@
 </div>
 <hr>
 <p>Um repositório para versionar meus estudos e exercícios<br><br></p>
-<h5>🎯Objetivo</h5>
+<div>
+  <h5>🎯Objetivo</h5>
+  <p>- Estudar POO</p>
+  <p>- Consolidar a Lógica</p>
+  <p>- Aprender sobre git e Github</p>
+  <hr>
+</div>
